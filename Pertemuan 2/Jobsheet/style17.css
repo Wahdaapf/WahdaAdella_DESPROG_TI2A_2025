@@ -1,0 +1,58 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to right, #e0eafc, #cfdef3);
+    line-height: 1.65;
+    padding-bottom: 1000px;
+}
+
+.container-satu {
+    width: 800px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    box-sizing: border-box;
+    display: flex;
+    gap: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.kolom-utama {
+    background-color: #fdf6e3;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.sidebar-satu {
+    background-color: #e6f7ff;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.sidebar-dua {
+    background-color: #f0f0f0;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.sidebar-satu ul {
+    padding: 0;
+    list-style: none;
+}
+
+.sidebar-satu ul li {
+    margin: 8px 0;
+}
+
+.sidebar-satu ul li a {
+    text-decoration: none;
+    color: #0077cc;
+}
+.sidebar-satu ul li a:hover {
+    color: #ff6600;
+}

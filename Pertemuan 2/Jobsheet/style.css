@@ -1,0 +1,26 @@
+body {
+    background: url(img/tree1.jpg), url(img/field1.jpg);
+    background-repeat: no-repeat, repeat;
+    color: white;
+}
+
+h2 {
+    color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.kotak {
+    padding: 50px;
+    width: 100px;
+    color: white;
+    margin: 10px;
+    background: orange;
+}
+
+#kotak {
+    width: 400px;
+    color: white;
+    background: blue;
+    padding: 50px;
+}
