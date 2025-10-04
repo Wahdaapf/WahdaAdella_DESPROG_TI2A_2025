@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Contoh Accordion jQuery UI</title>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.14.0/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.14.0/jquery-ui.js"></script>
+    <script>
+        $(function() {
+            $("#jQuery_accordion").accordion();
+        });
+    </script>
+</head>
+<body>
+    <div id="jQuery_accordion">
+        <h3>Header 1</h3>
+        <div>
+            <p>This is section 1. Place your content here in paragraphs or use div elements etc.</p>
+        </div>
+        <h3>Header 2</h3>
+        <div>
+            <p>This is section 2. You can also include images like this:</p>
+            <img src="https://via.placeholder.com/200" alt="contoh gambar">
+        </div>
+        <h3>Header 3</h3>
+        <div>
+            <p>This is section 3. Content can include listing as well.</p>
+            <ol>
+                <li>Item 1</li>
+                <li>Item 2</li>
+                <li>Item 3</li>
+            </ol>
+        </div>
+    </div>
+</body>
+</html>
