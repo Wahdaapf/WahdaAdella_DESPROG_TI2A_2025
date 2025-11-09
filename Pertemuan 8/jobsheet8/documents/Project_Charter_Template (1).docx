@@ -1,0 +1,167 @@
+PROJECT CHARTER
+
+===========================================
+
+INFORMASI PROYEK
+Nama Proyek: [Isi nama proyek]
+Tanggal: [DD/MM/YYYY]
+Sponsor Proyek: [Nama sponsor]
+Project Manager: [Nama PM]
+Departemen/Divisi: [Nama departemen]
+
+
+1. LATAR BELAKANG DAN JUSTIFIKASI PROYEK
+
+[Jelaskan mengapa proyek ini diperlukan, masalah apa yang akan diselesaikan, atau peluang apa yang ingin dimanfaatkan. Sertakan konteks bisnis yang relevan.]
+
+
+2. TUJUAN PROYEK
+
+Tujuan Bisnis:
+- [Tujuan 1]
+- [Tujuan 2]
+- [Tujuan 3]
+
+Tujuan Spesifik (SMART):
+- [Specific, Measurable, Achievable, Relevant, Time-bound objective 1]
+- [Objective 2]
+- [Objective 3]
+
+
+3. DESKRIPSI PROYEK
+
+[Berikan gambaran umum tentang proyek ini, apa yang akan dikerjakan, dan pendekatan yang akan digunakan.]
+
+
+4. RUANG LINGKUP PROYEK
+
+In Scope (Termasuk dalam proyek):
+- [Item 1]
+- [Item 2]
+- [Item 3]
+
+Out of Scope (Tidak termasuk dalam proyek):
+- [Item 1]
+- [Item 2]
+- [Item 3]
+
+
+5. DELIVERABLES (HASIL YANG DIHARAPKAN)
+
+No. | Deliverable | Deskripsi | Target Penyelesaian
+----|-------------|-----------|--------------------
+1   | [Nama deliverable 1] | [Deskripsi singkat] | [Tanggal/bulan]
+2   | [Nama deliverable 2] | [Deskripsi singkat] | [Tanggal/bulan]
+3   | [Nama deliverable 3] | [Deskripsi singkat] | [Tanggal/bulan]
+
+
+6. MILESTONE DAN TIMELINE
+
+Fase | Milestone | Target Penyelesaian
+-----|-----------|--------------------
+Inisiasi | [Milestone 1] | [Tanggal]
+Perencanaan | [Milestone 2] | [Tanggal]
+Eksekusi | [Milestone 3] | [Tanggal]
+Monitoring | [Milestone 4] | [Tanggal]
+Penutupan | [Milestone 5] | [Tanggal]
+
+Tanggal Mulai Proyek: [DD/MM/YYYY]
+Tanggal Selesai Proyek: [DD/MM/YYYY]
+Durasi Total: [X bulan/minggu]
+
+
+7. ANGGARAN PROYEK
+
+Total Budget: Rp [Jumlah]
+
+Rincian Biaya:
+- Sumber Daya Manusia: Rp [Jumlah]
+- Peralatan/Teknologi: Rp [Jumlah]
+- Material/Supplies: Rp [Jumlah]
+- Pelatihan: Rp [Jumlah]
+- Contingency (10%): Rp [Jumlah]
+
+Sumber Pendanaan: [Sebutkan sumber dana]
+
+
+8. STAKEHOLDER UTAMA
+
+Nama | Posisi/Peran | Tanggung Jawab | Kontak
+-----|--------------|----------------|--------
+[Nama] | Sponsor | [Tanggung jawab] | [Email/telepon]
+[Nama] | Project Manager | [Tanggung jawab] | [Email/telepon]
+[Nama] | Team Member | [Tanggung jawab] | [Email/telepon]
+[Nama] | User Representative | [Tanggung jawab] | [Email/telepon]
+
+
+9. TIM PROYEK
+
+Nama | Role | Alokasi Waktu
+-----|------|---------------
+[Nama] | [Role/posisi] | [% waktu atau hari/minggu]
+[Nama] | [Role/posisi] | [% waktu atau hari/minggu]
+[Nama] | [Role/posisi] | [% waktu atau hari/minggu]
+
+
+10. KRITERIA KESUKSESAN
+
+Proyek ini dianggap berhasil jika:
+1. [Kriteria 1 - misalnya: Deliverables diselesaikan sesuai spesifikasi]
+2. [Kriteria 2 - misalnya: Proyek selesai tepat waktu]
+3. [Kriteria 3 - misalnya: Budget tidak melebihi 10% dari anggaran]
+4. [Kriteria 4 - misalnya: Stakeholder satisfaction minimal 80%]
+
+
+11. RISIKO DAN ASUMSI
+
+Risiko Utama:
+No. | Risiko | Dampak | Probabilitas | Mitigasi
+----|--------|--------|--------------|----------
+1   | [Deskripsi risiko] | Tinggi/Sedang/Rendah | Tinggi/Sedang/Rendah | [Strategi mitigasi]
+2   | [Deskripsi risiko] | Tinggi/Sedang/Rendah | Tinggi/Sedang/Rendah | [Strategi mitigasi]
+
+Asumsi:
+- [Asumsi 1]
+- [Asumsi 2]
+- [Asumsi 3]
+
+Ketergantungan:
+- [Ketergantungan pada proyek/resource lain]
+
+
+12. WEWENANG PROJECT MANAGER
+
+Project Manager memiliki wewenang untuk:
+- [Wewenang 1 - misalnya: Mengalokasikan resource dalam tim]
+- [Wewenang 2 - misalnya: Menyetujui perubahan minor tanpa eskalasi]
+- [Wewenang 3 - misalnya: Menyetujui pengeluaran hingga Rp X]
+
+Batasan Wewenang:
+- [Batasan 1 - misalnya: Perubahan scope harus disetujui sponsor]
+- [Batasan 2 - misalnya: Pengeluaran di atas Rp X memerlukan approval]
+
+
+13. PERSETUJUAN
+
+Dengan menandatangani dokumen ini, pihak-pihak di bawah ini menyetujui pembentukan proyek dan mengotorisasi Project Manager untuk melanjutkan dengan perencanaan dan eksekusi proyek.
+
+
+_______________________________          _______________
+[Nama Sponsor Proyek]                    Tanggal
+Sponsor Proyek
+
+
+_______________________________          _______________
+[Nama Project Manager]                   Tanggal
+Project Manager
+
+
+_______________________________          _______________
+[Nama Steering Committee/Approver]       Tanggal
+[Jabatan]
+
+
+===========================================
+Catatan: Dokumen ini adalah dokumen hidup yang dapat direvisi dengan persetujuan sponsor proyek.
+Versi: 1.0
+Tanggal Revisi Terakhir: [DD/MM/YYYY]
