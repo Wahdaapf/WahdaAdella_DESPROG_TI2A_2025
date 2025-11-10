@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run PHP",
+            "type": "php",
+            "request": "launch",
+            "runtimeExecutable": "php",
+            "runtimeArgs": [
+                "-S", "localhost:8000",
+                "-t", "${fileDirname}"
+            ],
+            "port": 0,
+            "preLaunchTask": "open-browser"
+        }
+    ]
+}

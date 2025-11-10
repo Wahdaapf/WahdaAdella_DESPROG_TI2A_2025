@@ -1,0 +1,11 @@
+{
+    "tasks": [
+        {
+            "label": "open-browser",
+            "type": "shell",
+            "command": "start",
+            "args": ["http://localhost:8000/${fileBasename}"],
+            "problemMatcher": []
+        }
+    ]
+}
